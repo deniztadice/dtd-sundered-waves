@@ -26,6 +26,9 @@
   border-color: #0a66b2;
 }
 
+.directory .directory-item:is(.context, .active)::after {
+    border: 1px solid #0a66b2;
+}
 .sheet.journal-entry .journal-sidebar {
     background: #081e3854;
 }

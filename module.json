@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "compatibility": {
     "minimum": "11",
-    "verified": "11",
-    "maximum": "11"
+    "verified": "12",
+    "maximum": "12"
   },
   "system":"pf2e",
   "relationships": {
