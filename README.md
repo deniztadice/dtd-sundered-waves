@@ -6,4 +6,4 @@
 
 ---
 
-[CHANGELOG](./CHANGELOG.md) | [BLOG PAGE]((https://deniztadice.github.io/blog/adventures/pf2e/sw/)
+[CHANGELOG](./CHANGELOG.md) | [BLOG PAGE](https://deniztadice.github.io/blog/adventures/pf2e/sw/)
